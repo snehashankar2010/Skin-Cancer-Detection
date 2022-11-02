@@ -16,7 +16,8 @@ After providing patient details with skin lesion image , output:
         <ul>Accuracy: 0.7834</ul>
         After predicting all test samples according to curated model:</p>
     <p>Confusion matrix so formed:</p>
-   ![image](https://user-images.githubusercontent.com/71886103/199452660-9adab5d8-0723-4175-bd1d-fa644a5df2a0.png)
+![confusion_matrix](https://user-images.githubusercontent.com/71886103/199454501-2c881423-ac30-4085-860e-4b12317f96fc.png)
+
     <ul>Melanoma sensitivity: 0.8632</ul>
     <ul>Melanoma Specificity: 0.4513</ul>
     <p>Receiver Operating Characteristic <br> ROC AUC: 0.657 </p></h2>
